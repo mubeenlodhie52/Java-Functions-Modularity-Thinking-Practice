@@ -58,13 +58,4 @@ How Java handles parameter passing
 
 How to break large problems into smaller modular units
 
-▶️ How to Run
 
-Clone the repository:
-
-git clone https://github.com/your-username/your-repo-name.git
-
-
-Open in any Java IDE (IntelliJ, VS Code, Eclipse)
-
-Compile and run individual files (Q1.java to Q10.java)
