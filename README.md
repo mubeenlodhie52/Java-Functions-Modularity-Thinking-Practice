@@ -1,10 +1,10 @@
-🚀 Java Functions – Modularity Thinking (Practice Set)
+# 🚀 Java Functions – Modularity Thinking (Practice Set)
 
 This repository contains 10 Java function-based problems focused on building strong fundamentals of modularity, method creation, and recursion.
 
 These exercises are part of basic programming practice and are ideal for beginners learning Java.
 
-📌 Topics Covered
+# 📌 Topics Covered
 
 ✔️ Prime Number Checking
 
@@ -22,7 +22,7 @@ These exercises are part of basic programming practice and are ideal for beginne
 
 ✔️ Fibonacci using Recursion
 
-📂 Problem List
+# 📂 Problem List
 #	Problem Title
 1	Function to check prime number
 2	Function to calculate factorial
@@ -46,7 +46,7 @@ Recursion
 
 Arrays
 
-🎯 Learning Objectives
+# 🎯 Learning Objectives
 
 After completing these problems, you will understand:
 
